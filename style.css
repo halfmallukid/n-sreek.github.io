@@ -1,0 +1,46 @@
+
+body{
+	position: relative;
+	left:0px;
+	top:0px;
+	bottom: 0px; 
+	background:#b48800;
+}
+
+.other_content,article{
+	position: relative;
+	left:20px;
+	top:10px;
+	width: 60%;
+}
+p{
+	color:black;
+}
+h1,h2,h3,h4{
+	color: black;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+a{
+	color:#111111;
+}
+
+
+.section_style{
+	position:relative;
+	top:10px;
+	margin: 10px;
+}
+aside{
+	position: absolute;
+	background-color: #660022;
+	width: 40%;
+	height: 120%;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+}
+footer{
+	position: relative;
+	top:100px;
+}
