@@ -5,7 +5,7 @@ body{
 	top:0px;
 	bottom: 0px; 
 	margin: 0px;
-	background:#b48800;
+	background:#000000;
 }
 
 .other_content,article{
@@ -18,16 +18,16 @@ p{
 	color:black;
 }
 h1,h2,h3,h4{
-	color: black;
+	color: #ffffff;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 
 }
 a{
-	color:#111111;
+	color:#ffffff;
 }
 
 .aside-div a{
-	color:#111111;
+	color:#ffffff;
 }
 
 .aside-div a:hover{
