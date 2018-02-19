@@ -7,7 +7,9 @@ body{
 	margin: 0px;
 	background:#b48800;
 }
-
+*{
+	box-sizing: border-box;
+}
 .other_content,article{
 	position: relative;
 	left:20px;
@@ -24,6 +26,9 @@ h1,h2,h3,h4{
 }
 a{
 	color:#111111;
+}
+a:hover{
+	color:#900030;
 }
 
 .aside-div a{
