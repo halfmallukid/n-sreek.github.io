@@ -1,0 +1,134 @@
+
+html{
+	
+
+}
+body{
+	 background-image: url(brick-wall.jpg);
+	 background-repeat: repeat;
+	 background-attachment: fixed;
+	 margin: 0; 
+	 padding: 0; 
+	 height: 100%; 
+	 width: 100%; 
+	 background-color: white;
+}
+*{
+	box-sizing: border-box;
+}
+.banner-container{
+		margin-top: 3%;
+		background-color:#000000aa;
+		padding-left: 10%;
+		padding-right: 10%;
+		padding-top: 5%;
+		padding-bottom: 5%;
+		color: #a46600;
+
+}
+.banner-container h2{
+	color: #900030;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+.banner-container h4{
+	color: #eeeeee;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.section-container{
+	position: relative;
+	padding-top: 0%;
+	padding-left:10%;
+	padding-bottom: 20%;
+	margin-top: 5%;
+}
+.other_content,article,footer{
+	position: relative;
+	
+}
+p{
+	color:black;
+
+}
+ol,li,a,p,footer{
+	font-family: Georgia,serif;
+}
+.list-of-contents{
+	position: relative;
+	background-color: #11111111;
+}
+ol{
+	padding: 25px;
+	padding-right: 0px;
+}
+
+h1,h2,h3,h4{
+	color: black;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+a{
+	color:#900030;
+}
+a:hover{
+	color:#a46600;
+}
+
+
+.aside-div{
+	color: #888800;
+	padding: 15%;
+	font-size: 1.2em;
+}
+.aside-div h3{
+		color:#cccccc;
+}
+
+.aside-div a{
+	color:#cccccc;
+	text-decoration: none;
+
+}
+.aside-link{
+		background-color:#33333377;
+		padding: 6%;
+		margin: 2%;
+
+}
+.aside-div a:hover{
+	color:#b48800;
+}
+.aside-link:hover{
+			background-color:#88888888;
+}
+.section_style{
+	position:relative;
+}
+.side-section-style{
+
+}
+
+.main-section{
+	margin-top: 0px;
+	padding:10%;
+	background-color:#aaaaaadd;
+	width: 60%;
+}
+
+aside{
+	position: absolute;
+	background-color: #66002299;
+	top: 0px;
+	right: 0px;
+	width: 35%;
+	height: 100%;
+
+
+}
+footer{
+	position: relative;
+	bottom: 0px;
+	padding: 1px;
+	width: 100%;
+	background-color: #aaaaaadd;
+}
